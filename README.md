@@ -68,19 +68,8 @@ Course-Recommendation-System/
 
 3. **Navigate to the local URL (http://localhost:8501)** to use the web app.
 
-## Docker Hub 🐳
 
-To directly use the project from Docker Hub
-
-1. **Pull the pre-built Docker image**:
-   ```bash
-   docker pull ganeshpinnamaneni/course-recommendation-system:latest
-   ```
-
-2. **Run the Docker container**:
-   ```bash
-   docker run -p 8501:8501 ganeshpinnamaneni/course-recommendation-system:latest
-   ```
+   
 
 3. **Access the web app** at [http://localhost:8501](http://localhost:8501).
 
